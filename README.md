@@ -1,4 +1,7 @@
 # 💫 About Me:
+Hi, Here Anmol Gupta. 
+I know mern stack completely. 
+I have developed a todo app with JWT tokens,Usecontext,MongoDb and tailwind css for responsive design. Link:-https://todo-v2-frontend.vercel.app/
 I am currently working on A Multi merchant ecommerce platform , where the is a company which can add sellers and seller can manage addtheir products and other customer relationship things with sales.
 
 
