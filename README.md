@@ -4,6 +4,8 @@ I specialize in the MERN stack & Next.js, and I don’t just “know” technolo
 
 I’ve successfully transitioned into tech after 3.5 years of business operations experience, which gives me a strong edge in understanding users, products, and scalability, not just code.
 
+�🔗 Porfolio : https://anmolgupta-two.vercel.app/
+
 🚀 What I’m working on
 
 🛒 Multi-Merchant E-Commerce Platform (SaaS-style)
@@ -27,6 +29,10 @@ MongoDB backend
 
 Fully responsive UI using Tailwind CSS
 🔗 Live: https://todo-v2-frontend.vercel.app/
+
+✅Full stack MVP Ecommerce SaaS App
+
+🔗 https://codex-swart-sigma.vercel.app/
 
 🧠 How I think
 
