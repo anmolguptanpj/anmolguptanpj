@@ -1,13 +1,18 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050508,35:7C6DFA,70:22D3A8,100:FA6D6D&text=Anmol%20Gupta&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Backend%20Systems%20%7C%20Data%20%26%20Analytics&descAlignY=58&descSize=18)
+# Anmol Gupta
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=23&duration=2600&pause=700&color=22D3A8&center=true&vCenter=true&width=920&lines=I+build+production-ready+web+applications.;MERN+%2B+Next.js+%2B+Backend+Systems.;Business+operations+experience+meets+software+engineering.;Clean+architecture.+Real+users.+Scalable+products.)](https://git.io/typing-svg)
+### Full-Stack Engineer | Backend Systems | Data & Analytics
+
+I build production-ready web applications with clean architecture, scalable backend logic, and real business use cases.
+
+**MERN Stack · Next.js · RBAC · REST APIs · MongoDB · PostgreSQL · AWS EC2 · Data Analytics**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-7C6DFA?style=for-the-badge&logo=vercel&logoColor=white)](https://anmolgupta-two.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itheanmolgupta)
 [![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Iamintocoding)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anmolguptanpj282@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=anmolguptanpj&style=for-the-badge&color=7c6dfa&label=PROFILE+VIEWS)](https://github.com/anmolguptanpj)
 
 ### Portfolio: [anmolgupta-two.vercel.app](https://anmolgupta-two.vercel.app/)
 
@@ -228,12 +233,13 @@ flowchart LR
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anmolguptanpj&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmolguptanpj&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anmolguptanpj&theme=github_dark)
 
-<br />
+![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anmolguptanpj&theme=github_dark)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anmolguptanpj&theme=github_dark)
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=anmolguptanpj&theme=blue_navy&hide_border=false" />
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anmolguptanpj&theme=github_dark)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anmolguptanpj&theme=github_dark&utcOffset=5.5)
 
 </div>
 
@@ -258,7 +264,6 @@ I care about systems that are not only technically correct, but operationally us
 [![Portfolio](https://img.shields.io/badge/View%20Portfolio-7C6DFA?style=for-the-badge&logo=vercel&logoColor=white)](https://anmolgupta-two.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itheanmolgupta)
 [![Email](https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anmolguptanpj282@gmail.com)
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=anmolguptanpj&icon=0&color=0)
+[![Profile Views](https://komarev.com/ghpvc/?username=anmolguptanpj&style=for-the-badge&color=22d3a8&label=PROFILE+VIEWS)](https://github.com/anmolguptanpj)
 
 </div>
