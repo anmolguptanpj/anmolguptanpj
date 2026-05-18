@@ -63,7 +63,7 @@ const anmol = {
 
 ### Multi-Vendor E-Commerce SaaS Platform
 
-**Live:** [codex-swart-sigma.vercel.app](https://codex-swart-sigma.vercel.app/)  
+
 **Backend:** [EcommerceV1_Backend](https://github.com/anmolguptanpj/EcommerceV1_Backend)  
 **Customer Frontend:** [Ecommercev1_FrontendCustomer](https://github.com/anmolguptanpj/Ecommercev1_FrontendCustomer)  
 **Supplier Frontend:** [Ecommercev1_FrontendSupplier](https://github.com/anmolguptanpj/Ecommercev1_FrontendSupplier)
@@ -96,7 +96,7 @@ A production-style, multi-vendor commerce platform designed around isolated user
 
 ### Todo App with JWT Authentication
 
-**Live:** [todo-v2-frontend.vercel.app](https://todo-v2-frontend.vercel.app/)  
+**Frontend:** [TodoV2_backend](https://github.com/anmolguptanpj/TodoV2_frontend)
 **Backend:** [TodoV2_backend](https://github.com/anmolguptanpj/TodoV2_backend)
 
 A production-grade todo application built with authentication, protected routes, persistent backend storage, and responsive UI.
