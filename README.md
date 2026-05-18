@@ -96,7 +96,7 @@ A production-style, multi-vendor commerce platform designed around isolated user
 
 ### Todo App with JWT Authentication
 
-**Frontend:** [TodoV2_backend](https://github.com/anmolguptanpj/TodoV2_frontend)
+**Frontend:** [TodoV2_frontend](https://github.com/anmolguptanpj/TodoV2_frontend)
 
 **Backend:** [TodoV2_backend](https://github.com/anmolguptanpj/TodoV2_backend)
 
