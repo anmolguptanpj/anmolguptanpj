@@ -10,7 +10,6 @@ I build production-ready web applications with clean architecture, scalable back
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-7C6DFA?style=for-the-badge&logo=vercel&logoColor=white)](https://anmolgupta-two.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itheanmolgupta)
-[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Iamintocoding)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anmolguptanpj282@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=anmolguptanpj&style=for-the-badge&color=7c6dfa&label=PROFILE+VIEWS)](https://github.com/anmolguptanpj)
 
